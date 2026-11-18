@@ -1,0 +1,15 @@
+
+Subject: Meeting Reminder
+
+Dear {name},
+
+This is a reminder about your upcoming meeting.
+
+Department: {department}
+Meeting Date: {date}
+Meeting Time: {time}
+
+Please join the meeting on time.
+
+Best Regards,
+Administration Team

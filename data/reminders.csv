@@ -1,0 +1,6 @@
+name,email,department,reminder_message,reminder_date,reminder_time,status,sent
+Rahul Sharma,rahul@example.com,HR,Interview reminder,2026-11-19,15:00,Pending,False
+Priya Patil,priya@example.com,Admin,Team meeting reminder,2026-11-20,10:00,Pending,False
+Amit Kumar,amit@example.com,IT,Project submission reminder,2026-11-21,12:00,Pending,False
+Sneha Deshmukh,sneha@example.com,Finance,Report submission reminder,2026-11-22,09:30,Pending,False
+Neha Joshi,neha@example.com,Marketing,Presentation reminder,2026-11-23,14:00,Pending,False

@@ -1,0 +1,15 @@
+
+Subject: Interview Invitation
+
+Dear {name},
+
+We are pleased to inform you that you have been shortlisted for an interview.
+
+Department: {department}
+Interview Date: {date}
+Interview Time: {time}
+
+Please be available at the scheduled time.
+
+Best Regards,
+HR Department

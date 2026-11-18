@@ -1,0 +1,15 @@
+
+Subject: Task Deadline Reminder
+
+Dear {name},
+
+This is a reminder that your assigned task is approaching its deadline.
+
+Department: {department}
+Task: {task}
+Deadline: {date}
+
+Please complete the task before the deadline.
+
+Best Regards,
+Management Team

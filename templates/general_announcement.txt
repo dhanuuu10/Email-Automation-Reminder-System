@@ -1,0 +1,15 @@
+
+Subject: Important Announcement
+
+Dear {name},
+
+We would like to share an important announcement with you.
+
+Department: {department}
+
+Announcement: {message}
+
+Thank you for your attention.
+
+Best Regards,
+Management Team
